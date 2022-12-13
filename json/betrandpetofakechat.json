@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "more_app"                  : "0",
+      "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
@@ -12,8 +12,8 @@
       "open_ads"                  : "ca-app-pub-2107058542592159/2591317437",
 
       "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
-      "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
-      "backup_ads_native"         : "YOUR_PLACEMENT_ID",
+      "backup_ads_intertitial"    : "d83b0a09044b889e",
+      "backup_ads_native"         : "10e3b6de4fbd2f10",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
